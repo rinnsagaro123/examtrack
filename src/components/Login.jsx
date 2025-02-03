@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { useNavigate, Link } from 'react-router-dom';
 import data from '../data/data.json';
-import '../App.css'; 
+import '../assets/App.css';
 import ReCAPTCHA from "react-google-recaptcha"; 
 
 const Login = () => {
