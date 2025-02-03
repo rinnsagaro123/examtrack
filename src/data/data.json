@@ -1,0 +1,30 @@
+{
+    "users": [
+      {
+        "username": "user1",
+        "email": "user@example.com",
+        "password": "password123"
+      }
+    ],
+    "employees": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "position": "Developer"
+      }
+    ],
+    "records": [
+      {
+        "id": 1,
+        "date": "2025-02-03",
+        "timeIn": "08:00 AM",
+        "timeOut": "05:00 PM"
+      },
+      {
+        "id": 2,
+        "date": "2025-02-02",
+        "timeIn": "08:15 AM",
+        "timeOut": "05:15 PM"
+      }
+    ]
+  }
