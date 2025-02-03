@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import vector from '../assets/vector.svg';
+import vector from '../assets/Vector.svg';
 
 const AttendanceCard = ({ records, onTimeIn, onTimeOut }) => {
   const [isTimeIn, setIsTimeIn] = useState(true);
