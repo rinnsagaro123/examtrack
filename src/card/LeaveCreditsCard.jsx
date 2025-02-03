@@ -1,5 +1,5 @@
 import React from 'react';
-import union from '../assets/union.svg';
+import union from '../assets/Union.svg';
 
 const LeaveCreditsCard = () => {
   const leaveData = [
